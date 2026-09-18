@@ -1,0 +1,54 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+pydcop_env/
+venv/
+.venv/
+env/
+ENV/
+
+# Environment / local configuration files
+.env
+.env.*
+*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating-system generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python packaging / build artefacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test / coverage caches
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.backup
+*~
+
+# Logs
+*.log
+
+# Keep all benchmark, result, figure, notebook, CSV, YAML, and paper-facing files tracked.

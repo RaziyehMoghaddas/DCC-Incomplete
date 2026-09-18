@@ -1,0 +1,28 @@
+# DCC-Incomplete reproducibility requirements
+#
+# Root requirement:
+#   Python 3
+#
+# Python itself must be installed separately before using this file.
+# After installing Python, install the packages below with:
+#
+#   pip install -r requirements.txt
+#
+# ------------------------------------------------------------
+# Core scientific and data-processing packages
+# ------------------------------------------------------------
+numpy
+pandas
+matplotlib
+ipython
+
+# ------------------------------------------------------------
+# Notebook environment
+# ------------------------------------------------------------
+jupyter
+
+# ------------------------------------------------------------
+# Distributed constraint optimisation framework
+# Used for the external DSA, MGM, and GDBA baselines
+# ------------------------------------------------------------
+pydcop
