@@ -25,4 +25,4 @@ jupyter
 # Distributed constraint optimisation framework
 # Used for the external DSA, MGM, and GDBA baselines
 # ------------------------------------------------------------
-pydcop
+pydcop==0.1.2a1
