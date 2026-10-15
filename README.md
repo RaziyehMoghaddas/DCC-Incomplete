@@ -2,7 +2,7 @@
 
 This repository contains the implementation, benchmark material, experimental results, and figures associated with the study:
 
-**Dynamic Conflict Clustering with Lightweight Coordinated Repair for Distributed Constraint Satisfaction**
+[**Dynamic Conflict Clustering with Lightweight Coordinated Repair for Distributed Constraint Satisfaction**](https://doi.org/10.48550/arXiv.2610.15658)
 
 DCC-Incomplete is an incomplete repair-based solver for Distributed Constraint Satisfaction Problems (DCSPs). The proposed method combines dynamic conflict clustering, structured coordination, strategic repair behaviour, and a lightweight memory-guided restart mechanism.
 
@@ -75,7 +75,7 @@ The experiments include five algorithm configurations:
 - **DCC-Incomplete** — the proposed version using memory-guided restart.
 - **DSA** — Distributed Stochastic Algorithm.
 - **MGM** — Maximum Gain Message algorithm.
-- **GDBA** — Generalized Distributed Breakout Algorithm.
+- **GDBA** — Generalised Distributed Breakout Algorithm.
 
 DSA, MGM, and GDBA are executed using the pyDCOP framework.
 
@@ -248,11 +248,38 @@ The notebook does not require these archives to be extracted in order to create 
 
 ## Citation
 
-If you use this implementation, benchmark, or experimental material, please cite the associated paper:
+If you use this implementation, benchmark, or experimental material, please cite the associated work:
 
-> R. Moghaddas et al., *Dynamic Conflict Clustering with Lightweight Coordinated Repair for Distributed Constraint Satisfaction*.
+Moghaddas, R., & Caraffini, F. (2026). Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction. arXiv preprint arXiv:2610.15658. [DOI:10.48550/arXiv.2610.15658](https://doi.org/10.48550/arXiv.2610.15658)
 
-Complete publication details will be added after publication.
+```text
+@misc{moghaddas2026dynamicconflictclusteringlightweight,
+      title={Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction}, 
+      author={Raziyeh Moghaddas and Fabio Caraffini},
+      year={2026},
+      eprint={2610.15658},
+      archivePrefix={arXiv},
+      primaryClass={cs.MA},
+      url={https://arxiv.org/abs/2610.15658}, 
+}
+```
+
+For a permanent reference of this repository, please refer to:
+
+Moghaddas, R., & Caraffini, F. (2026). Supplementary Materials for "Dynamic Conflict Clustering with lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems". Zenodo. [DOI: 10.5281/zenodo.22957326](https://doi.org/10.5281/zenodo.22957326)
+
+```text
+@misc{moghaddas_2026_22957327,
+  author       = {Moghaddas, Raziyeh and
+                  Caraffini, Fabio},
+  title        = {Supplementary Materials for "Dynamic Conflict Clustering with lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems"},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.22957327},
+  url          = {https://doi.org/10.5281/zenodo.22957327},
+}
+```
 
 ## Licence
 
