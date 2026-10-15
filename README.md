@@ -250,7 +250,7 @@ The notebook does not require these archives to be extracted in order to create 
 
 If you use this implementation, benchmark, or experimental material, please cite the associated work:
 
-Moghaddas, R., & Caraffini, F. (2026). Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction. arXiv preprint arXiv:2610.15658. [DOI:10.48550/arXiv.2610.15658](https://doi.org/10.48550/arXiv.2610.15658)
+Moghaddas, R., & Caraffini, F. (2026). Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction. arXiv preprint arXiv:2610.15658. DOI: [10.48550/arXiv.2610.15658](https://doi.org/10.48550/arXiv.2610.15658)
 
 ```text
 @misc{moghaddas2026dynamicconflictclusteringlightweight,
@@ -266,13 +266,13 @@ Moghaddas, R., & Caraffini, F. (2026). Dynamic Conflict Clustering with Lightwei
 
 For a permanent reference of this repository, please refer to:
 
-Moghaddas, R., & Caraffini, F. (2026). Supplementary Materials for "Dynamic Conflict Clustering with lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems". Zenodo. [DOI: 10.5281/zenodo.22957326](https://doi.org/10.5281/zenodo.22957326)
+Moghaddas, R., & Caraffini, F. (2026). Supplementary Materials for "Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems". Zenodo. DOI: [10.5281/zenodo.22957326](https://doi.org/10.5281/zenodo.22957326)
 
 ```text
 @misc{moghaddas_2026_22957327,
   author       = {Moghaddas, Raziyeh and
                   Caraffini, Fabio},
-  title        = {Supplementary Materials for "Dynamic Conflict Clustering with lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems"},
+  title        = {Supplementary Materials for "Dynamic Conflict Clustering with Lightweight Learning and Strategic Repair for Distributed Constraint Satisfaction Problems"},
   month        = sep,
   year         = 2026,
   publisher    = {Zenodo},
@@ -283,4 +283,4 @@ Moghaddas, R., & Caraffini, F. (2026). Supplementary Materials for "Dynamic Conf
 
 ## Licence
 
-This repository is provided for academic review, research transparency, and reproducibility purposes subject to the terms in the `LICENSE` file.
+This repository is provided for academic review, research transparency, and reproducibility purposes, subject to the terms in the `LICENSE` file.
